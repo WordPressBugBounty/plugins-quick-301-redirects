@@ -6,7 +6,7 @@
   Author: Premio
   Author URI: https://premio.io/
   Version: 1.1.8
-  License: GPL2
+  License: GPLv3
  */
 function quick_301_redirects_load_plugin_textdomain() {
 	load_plugin_textdomain( 'quick-301-redirects', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );

@@ -2,7 +2,7 @@
 Contributors: galdub, tomeraharon, premio
 Tags: 301 redirects, 301, redirects, seo redirects, url redirects
 Requires at least: 3.1
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.1.8
 Plugin URI: https://premio.io/
 License: GPLv3
