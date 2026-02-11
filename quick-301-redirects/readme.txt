@@ -1,11 +1,12 @@
-=== Quick 301 Redirects for WordPress ===
+=== Quick 301 Redirects ===
 Contributors: galdub, tomeraharon, premio
 Tags: 301 redirects, 301, redirects, seo redirects, url redirects
 Requires at least: 3.1
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.1.8
 Plugin URI: https://premio.io/
 License: GPLv3
+
 
 The fastest & easiest way to do 301 redirects. You can set each redirect or bulk upload unlimited number of 301 redirects using a CSV file
 
@@ -54,7 +55,6 @@ Yes, create a CSV file and use the import CSV feature to create your 301 redirec
 Yes, you can easily export your 301 redirects by clicking on the export button
 
 == Screenshots ==
-
 1. Quick 301 Redirects, the easiest way to configure 301 redirects
 2. You can set your 301 redirects in bulk
 3. Or you can set your 301 redirects manually
