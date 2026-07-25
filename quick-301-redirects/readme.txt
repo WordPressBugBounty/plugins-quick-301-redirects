@@ -1,8 +1,8 @@
 === Quick 301 Redirects ===
 Contributors: galdub, tomeraharon, premio
 Tags: 301 redirects, 301, redirects, seo redirects, url redirects
-Requires at least: 3.1
-Tested up to: 6.8
+Requires at least: 4.7
+Tested up to: 7.0
 Stable tag: 1.1.8
 Plugin URI: https://premio.io/
 License: GPLv3
